@@ -1,9 +1,9 @@
 # LinkedList
 Simple Linked List created using C.
 
-##Compile
+#Compile:
 gcc –Wall LinkedListC.c –o LinkedListC
 
-##Run
+#Run:
 ./LinkedListC
 
